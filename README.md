@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+Hi!
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 <!--
 **AndyG2211/AndyG2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

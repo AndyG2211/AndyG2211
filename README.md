@@ -1,3 +1,6 @@
+<div style="width=100%; background-image=url('https://github.com/AndyG2211/AndyG2211/blob/37c31cbf06422637a0276f98b94200a85c1cd1ee/Black%20Header.gif')">
+
+</div>
 <img src="https://github.com/AndyG2211/AndyG2211/blob/37c31cbf06422637a0276f98b94200a85c1cd1ee/Black%20Header.gif">
 Hi!
 <img src="https://github.com/AndyG2211/AndyG2211/blob/37c31cbf06422637a0276f98b94200a85c1cd1ee/Black%20Footer.gif">

@@ -53,15 +53,14 @@ Hi!
 </a>
 <a href="https://www.youtube.com/watch?v=6bjsWx3olkA&t=5s&pp=ygUOaWVlZSBtaW5panVlZ28%3D" target="_blank">
 <img src="Minijuego.png" width="300px" height="auto" alt="">
-        </a>
-        <a href="https://www.youtube.com/watch?v=5XlPLbKSPII&t=1s&pp=ygUUcHJvZ3JhbWFuZG8gY29uIGFuZHk%3D" target="_blank">
-            <img src="ProgramandoConAndy3.png" width="300px" height="auto" alt="">
-        </a>
-        <a href="https://www.youtube.com/watch?v=4u21MOjtPfg&t=43s&pp=ygUUcHJvZ3JhbWFuZG8gY29uIGFuZHk%3D" target="_blank">
-            <img src="ProgramandoConAndy2.png" width="300px" height="auto" alt="">
-        </a>
-        
-    </p>
+</a>
+<a href="https://www.youtube.com/watch?v=5XlPLbKSPII&t=1s&pp=ygUUcHJvZ3JhbWFuZG8gY29uIGFuZHk%3D" target="_blank">
+<img src="ProgramandoConAndy3.png" width="300px" height="auto" alt="">
+</a>
+<a href="https://www.youtube.com/watch?v=4u21MOjtPfg&t=43s&pp=ygUUcHJvZ3JhbWFuZG8gY29uIGFuZHk%3D" target="_blank">
+<img src="ProgramandoConAndy2.png" width="300px" height="auto" alt="">
+</a>     
+</p>
 </p>
 <h2><strong>🤓 How Contact Me?</strong></h2>
 

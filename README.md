@@ -23,28 +23,24 @@ Hi!
 </p>
 <br>
 <h2><strong>🍩Other technologies I am familiar with</strong></h2>
-    <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,mysql,mongodb,bootstrap,flask,androidstudio" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50px" height="auto"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" height="auto"/>
-          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="">
-        </a>
-      </p>
-    <br>
-
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,mysql,mongodb,bootstrap,flask,androidstudio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50px" height="auto"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" height="auto"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="">
+</a>
+</p>
 <br>
 <h2><strong>🛠️Favorite tools</strong></h2>
 <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,postman,figma,discord" />
-      
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50px" height="auto"/>
-          
-    </a>
-  </p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,discord" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50px" height="auto"/>     
+</a>
+</p>
 <p>
-<h2><strong>*⚡Fun fact</strong></h2> 
+<h2><strong>⚡Fun fact 😁</strong></h2> 
 <br>
     A glimpse into my past as a "Youtuber" during my participation as a volunteer in the <a href="https://www.youtube.com/channel/UCaMPzLKGbbMNaYcAT4MyMtw" style="text-decoration: none;" target="_blank">IEEE branch</a>  of <a href="https://www.ucentral.edu.co/" style="text-decoration: none;" target="_blank">my university</a>.  😂😎
 <p align="center">
@@ -63,13 +59,14 @@ Hi!
 </p>
 </p>
 <h2><strong>🤓 How Contact Me?</strong></h2>
-
-It's very easy, connect me via
+<br>
+It's very easy 😜, connect me via
 <br>
 <a href="mailto:andresgalindont8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
 </a>
 <a href="https://www.linkedin.com/in/andres-galindo-promptsengineer-developer-aws/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
 </a>
+<br>
 <img src="https://github.com/AndyG2211/AndyG2211/blob/4f5352acc734794e5ac629a16ac5bfa38a787000/Black%20Footer.gif">

@@ -1,6 +1,8 @@
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src="https://github.com/AndyG2211/AndyG2211/blob/3d5c9061094a57e0488eb98f3d7a65c55ba8ee79/Black%20Header.gif">
 Hi!
 <img src="https://github.com/AndyG2211/AndyG2211/blob/4f5352acc734794e5ac629a16ac5bfa38a787000/Black%20Footer.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--
 **AndyG2211/AndyG2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
